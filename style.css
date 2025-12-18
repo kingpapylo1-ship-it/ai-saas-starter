@@ -1,0 +1,14 @@
+body {
+  font-family: system-ui;
+  max-width: 480px;
+  margin: auto;
+  padding: 20px;
+}
+
+#chat {
+  min-height: 300px;
+  border: 1px solid #ddd;
+  padding: 10px;
+  margin-bottom: 10px;
+  overflow-y: auto;
+}
